@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Análise e Desenvolvimento de Sistemas",
+    "organisation": "FIAP",
+    "startDate": "Agosto, 2023",
+    "endDate": "Julho, 2024",
+    "experiences": ["Atuamente cursando ADS na FIAP"],
+    "imageSrc": "history/fiap.png"
+  },
+  {
+    "role": "Desenvolvedo Web Java",
+    "organisation": "PROA",
+    "startDate": "Agosto, 2023",
+    "endDate": "Dezembro, 2023",
+    "experiences": ["Curso de programação", "Foco em desenvolvimento Web"],
+    "imageSrc": "history/proa.png"
+  },
+  {
+    "role": "Desenvolvedor IA | Front-end",
+    "organisation": "Laçoos",
+    "startDate": "Agosto, 2023",
+    "endDate": "Dezembro, 2023",
+    "experiences": [
+      "Desenvolvimento IA e Chatbot",
+      "Criação das páginas do sistemas"
+    ],
+    "imageSrc": "history/laçoos.png"
+  }
+]

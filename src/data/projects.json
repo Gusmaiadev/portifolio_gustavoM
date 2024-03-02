@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Center Movie",
+    "imageSrc": "projects/centermovie.PNG",
+    "description": "Site criado que simula uma plataforma de filmes, sendo responsivo e dinâmico.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://gusmaiadev.github.io/Projeto-Center-Movie/",
+    "source": "https://github.com/Gusmaiadev/Projeto-Center-Movie"
+  },
+  {
+    "title": "Calculadora",
+    "imageSrc": "projects/calculadora.PNG",
+    "description": "Projeto de uma calculadora digital, que faz cálculo e mostra o resultado.",
+    "skills": ["React", "JavaScript", "NodeJS"],
+    "demo": "https://gusmaiadev.github.io/Projeto_Calculadora/",
+    "source": "https://github.com/Gusmaiadev/Projeto_Calculadora"
+  },
+  {
+    "title": "FOKUS",
+    "imageSrc": "projects/fokus.PNG",
+    "description": "Projeto baseado no método pomodoro, possuindo cronômetro e música para o estudo.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://gusmaiadev.github.io/Projeto_Fokus/",
+    "source": "https://github.com/Gusmaiadev/Projeto_Fokus"
+  }
+]
