@@ -11,7 +11,7 @@ export const Hero = () => {
         Sou um programador web junior com 6 meses de experiência, apaixonado por transformar códigos em soluções criativas e funcionais para a web. 
         Sempre buscando aprender e crescer neste dinâmico universo da programação.
         </p>
-        <a href="#" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1Kqj21U6WgL6zzpRPkrHaj1ej6nhf6H9I/view?usp=sharing" target="blank" className={styles.contactBtn}>
           Download CV
         </a>
       </div>
