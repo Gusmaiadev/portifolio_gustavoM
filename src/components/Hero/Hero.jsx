@@ -12,7 +12,7 @@ export const Hero = () => {
         Sempre buscando aprender e crescer neste dinâmico universo da programação.
         </p>
         <a href="https://drive.google.com/file/d/1Kqj21U6WgL6zzpRPkrHaj1ej6nhf6H9I/view?usp=sharing" target="blank" className={styles.contactBtn}>
-          Download CV
+          Download C
         </a>
       </div>
       <img
