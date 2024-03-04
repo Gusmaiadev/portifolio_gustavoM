@@ -95,11 +95,27 @@
 
 .historyItemDetails ul {
   margin-top: 6px;
-  list-style-position: inside;
+  list-style-position:inside;
   font-size: 25px;
   list-style-type: disc;
-  margin-left: 17px;
+  margin-left: 10px;
 }
+
+
+@media screen and (max-width: 1150px){
+  .historyItemDetails h3 {
+    font-size: 25px;
+  }
+
+  .historyItemDetails ul {
+    font-size: 20px;
+    list-style-position:outside;
+  }
+  
+}
+
+
+
 
 @media screen and (max-width: 830px) {
   .content {
@@ -118,4 +134,22 @@
     width: 100%;
     gap: 9px;
   }
+
+  .historyItemDetails ul {
+    font-size: 20px;
+    list-style-position:inside;
+  }
+}
+
+
+@media screen and (max-width: 830px){
+  .historyItem {
+    flex-direction: column;
+  }
+  .historyItemDetails ul {
+    
+    list-style-position:outside;
+    margin-left: 20px;
+  }
+  
 }

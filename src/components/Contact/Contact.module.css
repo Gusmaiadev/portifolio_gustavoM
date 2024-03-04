@@ -46,6 +46,22 @@
   letter-spacing: 1.5px;
 }
 
+
+
+
+@media screen and (max-width: 920px){
+  .container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .text h2{
+    margin-bottom: 50px;
+  }
+}
+
+
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
@@ -60,5 +76,33 @@
 
   .links {
     align-items: center;
+  }
+}
+
+
+
+@media screen and (max-width: 570px){
+  .text h2{
+    font-size: 60px;
+  }
+
+  .links a{
+    font-size: 20px;
+  }
+
+  .link img{
+    height: 30px;
+  }
+}
+
+
+@media screen and (max-width: 400px){
+  .links a{
+    font-size: 20px;
+    word-break: break-all;
+  }
+
+  .text h2{
+    margin-bottom: 30px;
   }
 }
